@@ -32,4 +32,4 @@ myst_heading_anchors = 3
 html_theme = "furo"
 html_title = f"{project} documentation"
 html_static_path = ['_static']
-html_favicon = '_static/mascotte.svg'
+html_favicon = '_static/clea_bw.png'
